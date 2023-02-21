@@ -2,6 +2,8 @@
 
 Kopflos is a headless FPGA computer designed by Lone Dynamics Corporation.
 
+![Kopflos Computer](https://github.com/machdyne/kopflos/blob/2d60f1767399f930c9a8301a7202514d1cdf2e7e/kopflos.png)
+
 This repo contains schematics, pinouts, a 3D-printable case, example gateware and documentation.
 
 Find more information on the [Kopflos product page](https://machdyne.com/product/kopflos-computer/).
